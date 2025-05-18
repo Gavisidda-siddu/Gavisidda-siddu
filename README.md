@@ -4,18 +4,6 @@
 - 👯 I’m looking to collaborate on open-source and hackathons
 - 💬 Ask me about C, Java, Web Dev
 
-
----
-
-### 📊 GitHub Stats
-![Gavisidda's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavisidda-siddu&show_icons=true&theme=radical)
-
-### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gavisidda-siddu&theme=radical)](https://git.io/streak-stats)
-
-### 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavisidda-siddu&layout=compact&theme=radical)
-
 <h1 align="center">Hi 👋, I'm Gavisidda Siddu</h1>
 <h3 align="center">A passionate Computer Science student and Developer</h3>
 
