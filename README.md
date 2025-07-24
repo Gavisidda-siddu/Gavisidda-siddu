@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on open-source and hackathons
 - 💬 Ask me about C, Java, Web Dev
 
-<h1 align="center">Hi 👋, I'm Gavisidda Siddu</h1>
+<h1 align="center">Hi 👋, I'm G Gavisidda </h1>
 <h3 align="center">A passionate Computer Science student and Developer</h3>
 
 ---
