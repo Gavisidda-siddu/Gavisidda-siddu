@@ -40,7 +40,7 @@
 ### 🏆 Achievements
 - 🥇 5-Star in C on HackerRank  
 - 🌍 Global rank: 44,136  
-- 🧠 Attended 2 Hackathons  
+- 🧠 Attended 4 Hackathons  
 
 ---
 
