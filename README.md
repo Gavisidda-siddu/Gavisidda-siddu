@@ -28,6 +28,12 @@
 
 ### 📈 GitHub Stats
 
+![Gavisidda's GitHub stats](https://vercel.app)
+
+![GitHub Streak](https://demolab.com)
+
+![Top Languages](https://vercel.app)
+
 ![Gavisidda's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavisidda-siddu&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gavisidda-siddu&theme=radical)
