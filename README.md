@@ -28,9 +28,9 @@
 
 ### 📈 GitHub Stats
 
-![Gavisidda's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavisidda-siddu&show_icons=true&theme=radical)
+![Gavisidda's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavisidda-siddu&show_icons=true&include_all_commits=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gavisidda-siddu&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gavisidda-siddu&starting_year=2023&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavisidda-siddu&layout=compact&theme=radical)
 
@@ -45,7 +45,7 @@
 
 ### 📫 Reach Me
 - 📧 Email: gavisiddasiddu99019@gmail.com
-- 🔗 LinkedIn: [YourLinkedIn](www.linkedin.com/in/g-gavisidda-9b5565322)
+- 🔗 LinkedIn: [G Gavisidda](https://www.linkedin.com/in/g-gavisidda-9b5565322)
 
 ---
 
